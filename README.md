@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=xx7hemn3FY4
 
 ## Video 📢
 
-Para  observar la puesta en funcionamiento del proyecto, se a creado un vídeo en donde se visualizan los principales detalles del sistema. Cualquier observación, retroalimentación o duda la puedes dejar en los comentarios del vídeo, si te fue de utilidad déjanos tu like.
+Para  observar la puesta en funcionamiento del proyecto, se ha creado un vídeo en donde se visualizan los principales detalles del sistema. En el video también se explican el funcionamiento del código, la arquitectura y posibles mejoras de este sistema. Cualquier observación, retroalimentación o duda la puedes dejar en los comentarios del vídeo, si te fue de utilidad déjanos tu like.
 
 https://youtu.be/SQcPiO0XJ9c
 
@@ -45,7 +45,7 @@ Para entender qué construiremos, veamos nuestra arquitectura.
 
 El cliente Raspberry Pi (RPi) recibe la señal de video de la webcam y la transmite por la red via ZMQ (ImageZMQ). Un servidor en Ubuntu (o windows) recibe la señal y hace un tratamiento con OpenCV y otras librerías de tratamiento numéricos y de imágenes. Si en el tratamiento (modelo de detección de personas en Caffe y algoritmo de detección de caidas) detecta una posible caida, envía un mensaje PUSH a través de Firebase Cloud Messaging (FCM). Los clientes android (desarrollados en flutter) que esté suscritos al _topic_ o tema de FCM, recibirán en su barra de notificación una alerta de caida en la habitación donde se encuentra la cámara.
 
-## Instalación 🚀
+## Instalación 🤬
 
 Descarga o clona este repositorio en tu escritorio o lugar de trabajo. Para clonar ejecuta:
 
