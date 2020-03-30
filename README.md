@@ -1,5 +1,4 @@
-# Fallaid Project
-![Fallaid](https://github.com/Kseg97/fallaid-project/blob/master/images/logo.png)
+# ![Fallaid](https://github.com/Kseg97/fallaid-project/blob/master/images/logo.png)
 ## Resumen | Abstract 📋
 Fallaid es un Sistema de Detección de Caidas (SDC) que integra Raspberry Pi, OpenCV, ImageZMQ, Firebase y Flutter. Permite la detección de caidas y el envío de notificaciones push a través del servicio de mensajería de Firebase (FCM). Está orientado a personas con capacidad motriz reducida, personas mayores e interesados (familiares o encargados).
 
@@ -15,6 +14,8 @@ https://github.com/Kseg97/fallaid-flutter
 
 
 ## Instalación 🚀
+
+
 
 ## Caja | Chasis | Case 🚀
 
