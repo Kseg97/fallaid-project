@@ -5,7 +5,7 @@ Fallaid es un Sistema de Detección de Caidas (SDC) que integra Raspberry Pi, Op
 
 Fallaid (Fall Aid) is a Fall Detection System (FDS) intergrating Raspberry Pi, OpenCV, ImageZMQ, Firebase and Flutter. It allows fall detection and push notification alarms through Firebase Cloud Messaging.
 
-El proyecto de flutter se encuentra en:
+👉 El proyecto de flutter se encuentra en:
 https://github.com/Kseg97/fallaid-flutter
 
 Este proyecto está basado en: 
