@@ -1,0 +1,6 @@
+# Owners folder content
+old
+screenshots
+
+# Google Services 
+server/serviceAccountKey.json
