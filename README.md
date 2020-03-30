@@ -21,6 +21,15 @@ Para  observar la puesta en funcionamiento del proyecto, se ha creado un vídeo 
 
 https://youtu.be/SQcPiO0XJ9c
 
+## Contenido
+
+[¿Por qué?: Introducción y visión](#por-qué "Cuál es el problema")
+[¿Cómo?: Requisitos de alto nivel](#cómo "Cómo solucionamos")
+[¿Qué?: Arquitectura y detalles](#qué "Qué construiremos")
+[Instalación](#instalación "Instalación")
+[Ejecución](#ejecución "Ejecución")
+[3D Case](#caja "Caja para impresión 3D")
+
 ## ¿Por qué?
 
 En Fallaid creemos que un mundo mejor es un mundo que cuida a los más vulnerables.
